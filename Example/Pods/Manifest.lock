@@ -1,0 +1,16 @@
+PODS:
+  - ScreenUtils (1.0.0)
+
+DEPENDENCIES:
+  - ScreenUtils (from `../`)
+
+EXTERNAL SOURCES:
+  ScreenUtils:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ScreenUtils: 6b29dffc23bfb8c633d6638188b3d8762ee582d1
+
+PODFILE CHECKSUM: e87bebe53d4ff8439fa253e0af8788a711d1311a
+
+COCOAPODS: 1.14.3

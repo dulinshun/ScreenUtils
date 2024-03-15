@@ -1,0 +1,6 @@
+framework module ScreenUtils {
+  umbrella header "ScreenUtils-umbrella.h"
+
+  export *
+  module * { export * }
+}
